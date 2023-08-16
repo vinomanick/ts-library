@@ -1,9 +1,4 @@
-.husky
-.vscode
-.git
 coverage
-dist
-node_modules
 public
-package.json
+dist
 pnpm-lock.yaml
